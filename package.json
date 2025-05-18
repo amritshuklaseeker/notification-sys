@@ -1,0 +1,25 @@
+{
+  "name": "notification",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amritshuklaseeker/notification_system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amritshuklaseeker/notification_system/issues"
+  },
+  "homepage": "https://github.com/amritshuklaseeker/notification_system#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "winston": "^3.17.0"
+  }
+}
